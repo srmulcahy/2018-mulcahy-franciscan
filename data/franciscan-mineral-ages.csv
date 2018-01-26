@@ -1,0 +1,141 @@
+Reference,Authors,Date,Age,Error,Method,Minerals,RockType,Rock,Location,Sample,Notes
+55,Keith&Coleman*,1968,41.6,4,K-Ar,Jd+Amp,Ab-Jd-Gln schist,bs,Valley Ford,,
+54,Keith&Coleman*,1968,77,7.5,K-Ar,Gln,Ab-Jd-Gln schist,bs,Valley Ford,,
+53,Keith&Coleman*,1968,82.4,20.1,K-Ar,Ab,Ab-Jd-Gln schist,bs,Valley Ford,,
+85,Mattinson&Echeverria,1980,92,1.4,U-Pb,"Ttn-""Pl""",Gabbro,gb,Ortigalita Peak,"OP1, OP2",Isochron
+84,Mattinson&Echeverria,1980,95,0.5,U-Pb,Zrn,Gabbro,gb,Ortigalita Peak,OP2,206/238; Concordant
+118,McDowell et al.,1984,108,8,K-Ar,ba,Gln schist,bs,Hull Mtn,22,Poison Rock Melange
+166,Peterman et al,1967,112,16,Rb-Sr,wr,Graywacke,ms,Yolla Bolly Quad,,"wr ""isochron"""
+214,Suppe&Armstrong*,1972,118,6,K-Ar,wm,,mm,Pacheco Pass,X111M,
+194,Suppe&Armstrong*,1972,119,6,K-Ar,ba,,mm,Leech Lake Mtn.,199,
+279,Wakabayashi&Dimitru,2007,120.53,1.3,Ar-Ar,wm,Metachert,ms,Tomhead Mtn,SFM-13,Plateau
+281,Wakabayashi&Dimitru,2007,121.8,7.4,Ar-Ar,wm,Metachert,ms,Tomhead Mtn,SFM-4c,Isochron
+115,McDowell et al.,1984,122,6,K-Ar,ba,Gln schist,bs,Hull Mtn,18,Poison Rock Melange
+280,Wakabayashi&Dimitru,2007,122,3.6,Ar-Ar,wm,Metavolcanic,mv,Tomhead Mtn,SFM-1x,Isochron
+25,Coleman&Lanphere*,1971,123,24,K-Ar,ba,Grt-Gln schist,bs,Crevison Pk,7-70,Table 2
+215,Suppe&Armstrong*,1972,125,6,K-Ar,ba,,mm,Pacheco Pass,X111G,
+154,Mulcahy et al.,2014,129.2,1.2,Lu-Hf,Lws-wr,Grt-Lws bs,bs,Berkeley Hills,BH-1,
+277,Wakabayashi&Dimitru,2007,132,,Ar-Ar,wm,Metagraywacke,ms,Skagg's Springs,NS-10,High-T steps
+278,Wakabayashi&Dimitru,2007,132,,Ar-Ar,wm,Metagraywacke,ms,Skagg's Springs,FR-10,High-T steps
+274,Wakabayashi&Dimitru,2007,132.1,0.4,Ar-Ar,wm,Grt bs,bs,Panoche/Gln Ridge,Diab-4,Total fusion
+82,Lee et al.*,1964,133,7,K-Ar,wm,metashale,ms,"Cazadero, CA",26CZ59,
+249,Suppe&Foland,1979,133,12,K-Ar,ba,Metachert,ms,Goat Mtn,C-691,Goat Mtn Schist
+275,Wakabayashi&Dimitru,2007,134.2,0.8,Ar-Ar,wm,Ep bs,bs,Panoche/Willow Sp,Diab-41,Total fusion
+14,Coleman&Lanphere*,1971,135,10,K-Ar,ba,Grt-Gln schist,bs,"Roseburg, OR",10-58,Table 2
+16,Coleman&Lanphere*,1971,135,16,K-Ar,ba,Grt-Gln schist,bs,"Roseburg, OR",29-69,Table 2
+19,Coleman&Lanphere*,1971,135,26,K-Ar,ba,Gln schist,bs,"Sixes River, OR",56-69,Table 2
+103,McDowell et al.,1984,136,8,K-Ar,ba,Gln schist,bs,Covelo-Layton.,9,Eel River melange
+112,McDowell et al.,1985,136,6,K-Ar,ba,Gln schist,bs,Hull Mtn,16,Poison Rock Melange
+116,McDowell et al.,1984,137,6,K-Ar,ba,Gln schist,bs,Hull Mtn,19,Poison Rock Melange
+248,Suppe&Foland,1978,137,6,K-Ar,wm,Metachert,ms,Goat Mtn,C-691,Goat Mtn Schist
+268,Ukar et al.,2012,137.2,0.9,Ar-Ar,wm,bs,bs,San Simeon,05-EU-SS-60,plateau
+81,Lee et al.*,1964,138,7,K-Ar,wm,metashale,ms,"Cazadero, CA",201RGC59I,
+263,Ueda & Kawano,1967,138,,K-Ar,wm,Mafic schist,bs,Goat Mtn,G-208,"Cited by Ernst et a., 1970"
+78,Lee et al.*,1964,138.267,7,K-Ar,wm,Grt-Gln schist,bs,"Cazadero, CA",50-CZ-60,rock description from Coleman&Lanphere
+269,Wakabayashi&Deino,1989,139.2,0.8,Ar-Ar,wm,bs,bs,San Francisco,Hillside FZ,Total fusion
+253,Suppe&Foland,1978,140,6,K-Ar,Hbl,Hbl schist,amph,Goat Mtn,C-1128,Goat Mtn Schist
+97,McDowell et al.,1984,141,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,4,Eel River melange
+101,McDowell et al.,1984,141,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,9,Eel River melange
+245,Suppe&Foland,1978,141,8,K-Ar,wm,Metabasalt,bs,Goat Mtn,C-447,Goat Mtn Schist
+260,Suppe&Foland,1978,141,4,Rb-Sr,Lws-Spn-Amp-wm-wr,Metabasalt,bs,Goat Mtn,C-447,"Goat Mtn Schist, isochron"
+9,Catlos&Soresen,2003,141.7,1.1,Ar-Ar,wm,Eclogite,eclogite,Mt. Hamilton,MH-90-1AB,Weighted mean of data in Table 3
+156,Mulcahy et al.,2014,141.8,0.3,Ar-Ar,wm,Grt-Lws bs,bs,Berkeley Hills,BH-1,
+100,McDowell et al.,1984,142,6,K-Ar,Act,Gln schist,bs,Covelo-Layton.,6,Eel River melange
+270,Wakabayashi&Deino,1989,142.7,0.5,Ar-Ar,wm,bs,bs,Ward Creek,,Plateau
+110,McDowell et al.,1984,143,4,K-Ar,wm,Gln schist,bs,Sanhedrin Mtn.,15,Sanhedrin Mtn. Melange
+117,McDowell et al.,1984,143,6,K-Ar,ba,Gln schist,bs,Hull Mtn,20,Poison Rock Melange
+79,Lee et al.*,1964,143.36,7,K-Ar,wm,Gln schist,bs,"Cazadero, CA",27-CZ-60,rock description from Coleman&Lanphere
+17,Coleman&Lanphere*,1971,144,12,K-Ar,Act,Grt-Gln schist,bs,"Roseburg, OR",29-69,Table 2
+106,McDowell et al.,1984,144,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,12,Elk Creek Melange
+164,Page et al.,2014,144,10,U-Pb,Zrn,Eclogite,eclogite,Jct School,,weighted mean of core and rim
+226,Suppe&Armstrong*,1972,144,6,K-Ar,wm,,mm,Glaucophane Ridge,175a-ms,
+252,Suppe&Foland,1978,144,6,K-Ar,wm,Metachert,ms,Goat Mtn,C-1120C,Goat Mtn Schist
+157,Mulcahy et al.,2014,145,2,Lu-Hf,Lws-wr,Lws bs,bs,Tiburon,RR-1,
+167,Peterman et al,1967,145,,Rb-Sr,wr,Graywacke,ms,Angel Island,,"wr ""isochron"""
+225,Suppe&Armstrong*,1972,145,6,K-Ar,wm,,mm,Glaucophane Ridge,GR-1M,
+246,Suppe&Foland,1979,145,10,K-Ar,ba,metabasalt,bs,Goat Mtn,C-447,Goat Mtn Schist
+158,Mulcahy et al.,2014,145.2,0.3,Ar-Ar,wm,Lws bs,bs,Tiburon,RR-1,
+15,Coleman&Lanphere*,1971,145.408,8,K-Ar,wm,Grt-Gln schist,bs,"Roseburg, OR",29-69,Table 2
+8,Catlos&Sorensen,2003,145.5,1.2,Ar-Ar,wm,Grt amph,amph,Mt. Hamilton,MH-90-01-AA,Weighted mean of data in Table 3
+152,Mulcahy et al,2009,145.5,2.4,Lu-Hf,Lws-Gln,Lws bs,bs,Tiburon,,savillex dissolution only
+102,McDowell et al.,1984,146,8,K-Ar,ba,Gln schist,bs,Covelo-Layton.,9,Eel River melange
+212,Suppe&Armstrong*,1972,146,6,K-Ar,ba,,mm,Berkeley Hills,563G,
+211,Suppe&Armstrong*,1972,146.432,6,K-Ar,wm,,mm,Berkeley Hills,563M,
+271,Wakabayashi&Dimitru,2007,146.51,0.72,Ar-Ar,wm,Eclogite,eclogite,Panoche/Willow Sp,Diab-107,Plateau
+5,Anczkiewicz et al.,2004,146.7,0.7,Lu-Hf,Grt-Gln,Grt-Gln schist,bs,Willow Springs Cr,PG73,
+165,Page et al.,2014,147,4,U-Pb,Zrn,Hornblendite,amph,Panoche,,late hydrothermal overprint
+21,Coleman&Lanphere*,1971,148,16,K-Ar,ba,Grt-Gln schist,bs,"Bandon,OR",94-67,Table 2
+114,McDowell et al.,1985,148,6,K-Ar,Act,Gln schist,bs,Hull Mtn,17,Poison Rock Melange
+193,Suppe&Armstrong*,1972,148,6,K-Ar,wm,,mm,Laytonville,969cM,
+105,McDowell et al.,1984,149,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,11,Eel River melange
+247,Suppe&Foland,1978,149,6,K-Ar,Hbl,Hbl schist,amph,Goat Mtn,C-606,Goat Mtn Schist
+250,Suppe&Foland,1978,149,6,K-Ar,wm,Metachert,ms,Goat Mtn,C-1120A,Goat Mtn Schist
+155,Mulcahy et al.,2014,149.2,0.8,Lu-Hf,Grt-Gln-wr,Grt-Lws bs,bs,Berkeley Hills,BH-1,
+7,Brown*,1971,150,,K-Ar,wm,Gln schist,bs,Goat Mtn.,B53-15,"Cited by Coleman & Lanphere, 1971"
+113,McDowell et al.,1984,150,4,K-Ar,wm,Gln schist,bs,Hull Mtn,17,Poison Rock Melange
+210,Suppe&Armstrong*,1972,150,6,K-Ar,wm,,mm,Tiburon,GRS-1M,
+244,Suppe&Foland,1978,150,6,K-Ar,wm,Mica schist,ms,Goat Mtn,C-381,Goat Mtn Schist
+20,Coleman&Lanphere*,1971,150.528,8,K-Ar,wm,Grt-Gln schist,bs,"Bandon,OR",94-67,Table 2
+265,Ukar et al.,2012,150.9,1.6,Ar-Ar,wm,Act rind,bs,San Simeon,04-EU-SS-45,plateau
+91,McDowell et al.,1984,151,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,2,Laytonville Melange
+92,McDowell et al.,1984,151,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,7,Laytonville Melange
+96,McDowell et al.,1984,151,6,K-Ar,ba,Gln schist,bs,Covelo-Layton.,3,Eel River melange
+99,McDowell et al.,1984,151,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,6,Eel River melange
+209,Suppe&Armstrong*,1972,151,6,K-Ar,wm,,mm,Goat Mtn.,G19M,
+159,Mulcahy et al.,2014,151.5,9,Lu-Hf,Grt-Lws-wr,Grt bs/eclogite,bs,Ward Creek,WC-1,
+13,Coleman&Lanphere*,1971,151.552,8,K-Ar,wm,Grt-Gln schist,bs,"Roseburg, OR",10-58,Table 2
+23,Coleman&Lanphere*,1971,151.552,12,K-Ar,Hbl,Hbl-Pl amph,amph,Pickett Peak,P-1064,Table 2
+107,McDowell et al.,1984,152,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,13,Elk Creek Melange
+264,Ukar et al.,2012,152,1.8,Ar-Ar,wm,Ep bs,bs,San Simeon,04-EU-SS-45,plateau
+18,Coleman&Lanphere*,1971,152.576,8,K-Ar,wm,Gln schist,bs,"Sixes River, OR",56-69,Table 2
+28,Coleman&Lanphere*,1971,152.576,10,K-Ar,Hbl,Grt amph,amph,Crevison Pk,9-70,Table 2
+35,Firsov&Dobretsov*,1970,153,16,K-Ar,wm + Chl,Eclogite,eclogite,Tiburon,2655,unspecified error doubled
+94,McDowell et al.,1984,153,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,8,Laytonville Melange
+98,McDowell et al.,1984,153,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,5,Eel River melange
+185,Suppe*,1969,153,4.5,K-Ar,wm,Gln-Lws metabasalt,bs,Leech Lake Mtn,199,
+10,Catlos&Soresen,2003,153.1,1.4,Ar-Ar,wm,Grt amph,amph,Tiburon,T-90-2AH,Weighted mean of data inTable 2
+3,Anczkiewicz et al.,2004,153.4,0.8,Lu-Hf,Grt-Hbl,Grt amph,amph,Tiburon,PG23(TIBB),
+24,Coleman&Lanphere*,1971,153.6,8,K-Ar,wm,Grt-Gln schist,bs,Crevison Pk,7-70,Table 2
+80,Lee et al.*,1964,153.6,8,K-Ar,wm,Gln schist,bs,"Cazadero, CA",55-CZ-59,rock description from Coleman&Lanphere
+266,Ukar et al.,2012,153.9,1.6,Ar-Ar,wm,Ep bs,bs,San Simeon,05-EU-SS-48,plateau
+184,Suppe*,1969,154,4.5,K-Ar,wm,Gln-Lws metabasalt,bs,Leech Lake Mtn,198,
+267,Ukar et al.,2012,154,2,Ar-Ar,wm,Ep bs,bs,San Simeon,05-EU-SS-49,plateau
+276,Wakabayashi&Dimitru,2007,154,3.2,Ar-Ar,wm,Metachert,ms,Ward Creek,WC-1,Plateau
+153,Mulcahy et al,2009,154.1,4.7,Lu-Hf,Lws-Gln-wr,Lws bs,bs,Tiburon,,bomb dissolution of Gln &wr
+22,Coleman&Lanphere*,1971,154.5938,12,K-Ar,Hbl,Hbl-Pl amph,amph,"Big Craggies, OR",54-65,Table 2
+111,McDowell et al.,1984,155,4,K-Ar,wm,Gln schist,bs,Hull Mtn,16,Poison Rock Melange
+178,Mulcahy et al.,this work,155,1,Lu-Hf,Grt-wr,Grt-Omp amph,amph,Tiburon,EA,Maximum rim age = amphibolite
+179,Mulcahy et al.,this work,155,1,Lu-Hf,Grt-wr,Grt-Ep-Omp amph,amph,Berkeley Hills,BH32,Maximum rim age = amphibolite
+11,Catlos&Soresen,2003,155.4,1.5,Ar-Ar,wm,Eclogite,eclogite,Tiburon,T-90-3AB,Weighted mean of data inTable 2
+90,McDowell et al.,1984,156,4,K-Ar,wm,Gln schist,bs,Covelo-Layton.,1,Laytonville Melange
+251,Suppe&Foland,1978,156,30,K-Ar,ba,Metachert,ms,Goat Mtn,C-1120A,Goat Mtn Schist
+160,Mulcahy et al.,2014,156.2,1,Lu-Hf,Grt-wr,Grt-Ep bs,bs,Nicassio,BR-5,
+272,Wakabayashi&Dimitru,2007,156.2,6.8,Ar-Ar,Hbl,Ep amph,amph,MacLaren Park,MP-1,Isochron
+12,Catlos&Soresen,2003,157,2.4,Ar-Ar,wm,Eclogite,eclogite,Tiburon,T-90-3AG,Weighted mean of data inTable 2
+26,Coleman&Lanphere*,1971,157,12,K-Ar,Act,Grt-Gln schist,bs,Crevison Pk,7-70,Table 2
+4,Anczkiewicz et al.,2004,157.9,0.7,Lu-Hf,Grt-Cpx,Eclogite,eclogite,Jenner,PG31,
+134,McDowell et al.,1984,158,10,K-Ar,Act,Qtz Mica schist,ms,Elk Creek,39,S. Fk. Mtn. Schist
+273,Wakabayashi&Dimitru,2007,158.91,1.14,Ar-Ar,Hbl,Grt amph,amph,Hunters Pt S.Z.,HPSZ,Isochron
+27,Coleman&Lanphere*,1971,159,16,K-Ar,Act,Grt amph,amph,Crevison Pk,9-70,Table 2
+104,McDowell et al.,1984,159,6,K-Ar,wm,Gln schist,bs,Covelo-Layton.,10,Eel River melange
+109,McDowell et al.,1984,159,6,K-Ar,Act,amph,amph,Sanhedrin Mtn.,14,Elk Creek Melange
+133,McDowell et al.,1984,159,10,K-Ar,Act,Qtz Mica schist,ms,Elk Creek,38,S. Fk. Mtn. Schist
+180,Mulcahy et al.,this work,160,4,U-Pb,Zrn,Grt-Omp amph,amph,Tiburon,EA,"206/238, Hbl matrix"
+169,Ross&Sharp,1988,161.1,1.7,Ar-Ar,Hbl,Grt amph,amph,Panoche/Hermes?,,Mean of three plateau samples
+89,Mattinson,1986,162,3,U-Pb,Lws-Gln-Spn,Metabasalt,bs,Taliaferro Complex,TC,Isochron
+149,McDowell et al.,1984,162,6,K-Ar,Hbl,Gabbro,gb,Sanhedrin Mtn,60,Poison Rock Melange
+2,Anczkiewicz et al.,2004,162.5,0.5,Lu-Hf,Grt-Hbl,Grt amph,amph,Berkeley Hills,PG14,
+291,Shervais et al.,2011,165.6,2.5,Ar-Ar,Hbl,Grt-Ep amph,amph,Thomes Creek,,Plateau
+161,Mulcahy et al.,2014,166,0.9,Lu-Hf,Grt-Ep-wr,Grt-Ep amph,amph,Tiburon,RM-8,
+181,Mulcahy et al.,this work,166,1,Lu-Hf,Grt-wr,Grt-Omp amph,eclogite,Tiburon,EA,Minimum core age = eclogite
+293,Shervais et al.,2011,166.3,3.6,Ar-Ar,Hbl,Hbl gneiss,amph,Wilbur Springs,,Plateau
+292,Shervais et al.,2011,167.5,3.3,Ar-Ar,Hbl,Hbl gneiss,amph,Alder Springs,,Plateau
+6,Anczkiewicz et al.,2004,168.7,0.8,Lu-Hf,Grt-Hbl,Grt amph,amph,Panoche/Hermes,PG80,
+182,Mulcahy et al.,this work,172,1,Lu-Hf,Grt-wr,Grt-Ep-Omp amph,eclogite,Berkeley Hills,BH32,Minimum core age = eclogite
+34,Firsov&Dobretsov*,1970,175.0356,4,K-Ar,Cpx,Eclogite,eclogite,Tiburon,2689,unspecified error doubled
+183,Mulcahy et al.,this work,176,4,U-Pb,Zrn,Grt-Omp amph,eclogite,Tiburon,EA,"206/238,  inclusions in Grt"
+162,Page et al.***,2003,178.2,7.2,U-Pb,Zrn,Eclogite,eclogite,Healdsburg,,concordant
+261,Suppe&Foland,1978,180,,Rb-Sr,wr-wm,Mica schist,ms,Goat Mtn,C-381,"Goat Mtn Schist,""isochron"""
+262,Suppe&Foland,1978,180,,Rb-Sr,wr-wm-ba,Metachert,ms,Goat Mtn,1120A,"Goat Mtn Schist, ""isochron"""
+168,Ross & Sharp***,1986,190,10,Sm-Nd,Grt-Hbl,Hornblendite,amph,Pacheco Pass?,,Location from Moore & Blake (1989)
+163,Page et al.***,2003,218.9,6,U-Pb,Zrn,Eclogite,eclogite,Healdsburg,,"206/238, reversely discordant"
